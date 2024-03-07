@@ -1,7 +1,7 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
+  <<< Author notes: Course header >>> 
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
@@ -36,7 +36,7 @@ Your new action will run any time a pull request has been opened.
 1. Create the pull request on your branch.
 1. See your action run on your pull request.
 1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
-
+:)
 <footer>
 
 <!--
